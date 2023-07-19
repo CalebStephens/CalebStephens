@@ -1,6 +1,6 @@
 - 👋 Hello There, I’m @CalebStephens
 
-Currently a second year B.I.T student at the Otago Polytech, the journey has just begun!
+Currently a third year B.I.T student at the Otago Polytech, and Software Developer at Beamy LTD!
 
 Here is just some of what I have been working on:
 
